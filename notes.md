@@ -12,7 +12,7 @@
 |Oil, rapeseed (at 20 C) [i.e. Canola oil]|0.92|
 
 
-<sup>[†]</sup> For this i'm just gonna average out the values. So $\frac{0.91 + 0.92}{2} = 0.915 \frac{g}{cm³}$
+<sup>[†]</sup> For this i'm just gonna average out the values. So $\frac{0.91 + 0.92}{2} = 0.915$ Then multiply by $1 \frac{g}{cm³}$ to cancel out the water part (denominator) (googled specific gravity and it said it's a ratio of density over density of water which is 1.0 I think so it makes no sense what the utility is...)
 
 
 ## International Chemical Safety Cards (ICSCs)
